@@ -90,7 +90,7 @@ void histogram(It first, 	It last)
 	print_histogramm	(histogram,	min_smpl	,	bins	,	step	);
 }
 //  	---------------------------------------------		main()
-int main()
+int main_test()
 {
     constexpr int 					samples_n 		= 10'000;			//	Number of samples in random signal
     std::vector<double> 				signal(samples_n);			
