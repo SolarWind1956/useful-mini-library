@@ -143,7 +143,7 @@ void 	print_with_separator(T 	number_par, std::ostream& os = std::cout)
 }
 
 //  	---------------------------------------------		main()
-int		main()
+int		main_test()
 {
 	std::cout << "-------------- I'm " << __PRETTY_FUNCTION__ << '\n';
 	
