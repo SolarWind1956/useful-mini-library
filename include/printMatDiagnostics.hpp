@@ -14,8 +14,8 @@
 	
 	"Дорогу осилит идущий, а вдвоем идти спорее".	
 */
-#ifndef INCLUDE_GUARDS_CHAPTER_4_printMatDiagnostics_HPP
-#define INCLUDE_GUARDS_CHAPTER_4_printMatDiagnostics_HPP
+#ifndef INCLUDE_GUARDS_printMatDiagnostics_HPP
+#define INCLUDE_GUARDS_printMatDiagnostics_HPP
 //	--------------------------------------------------------------------------------------------------------
 #include <iostream>
 using std::cout; using std::endl; using std::boolalpha;
@@ -224,4 +224,4 @@ inline void		printMatDiagnostics(const cv::Mat& mat)
     }
 }
 //	--------------------------------------------------------------------------------------------------------
-#endif	//	#ifndef INCLUDE_GUARDS_CHAPTER_4_printMatDiagnostics_HPP
+#endif	//	#ifndef INCLUDE_GUARDS_printMatDiagnostics_HPP
