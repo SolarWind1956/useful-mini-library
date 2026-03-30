@@ -22,6 +22,9 @@ using std::cout; using std::endl; using std::boolalpha;
 #include <map>
 #include "color_output.hpp"
 using namespace color_output;
+
+#include <opencv2/core/core.hpp>
+
 //	--------------------------------------------------------------------------------------------------------
 /*
 	Рекомендуемая Gemini терминология, 
