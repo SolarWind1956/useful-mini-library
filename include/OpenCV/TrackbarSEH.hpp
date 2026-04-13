@@ -3,6 +3,9 @@
 	Created on Sunday April 12 2026
 
 	author: SergejHeckelDesktop
+			with insightful support from Gemini (AI)
+	
+	"Дорогу осилит идущий, а вдвоем идти спорее".	
 */
 #ifndef INCLUDE_GUARDS_TrackbarSEH_HPP
 #define INCLUDE_GUARDS_TrackbarSEH_HPP
